@@ -5,7 +5,7 @@ Yeah, it’s built in Python. But don’t let that fool you. This isn’t some h
 
 Encrypted, overengineered, polished AF, and yes — it has an icon now 😌✨
 
-# 🚀🧨 Features (a.k.a. “Did you really need all this?” – Yes. Yes I did.)
+## 🚀🧨 Features (a.k.a. “Did you really need all this?” – Yes. Yes I did.)
 - 🎨 Polished UI: Light theme 🌞, calm colors 🎨, and smoother than your Wi-Fi during power cut ⚡
 
 - 🔐 Multi-Factor Encryption (MFE): Encrypts your stuff not once, but TWICE. Two keys 🔑🔑, two vaults 🔒🔒. Trust issues? We gotchu 😤
@@ -24,14 +24,14 @@ Encrypted, overengineered, polished AF, and yes — it has an icon now 😌✨
 
 - 🖼️ App Icon: Yup. It has a face now. And it’s cute 😎🖼️
 
-# 🛠️📦 Installation (Your entry to the VIP lounge)
+## 🛠️📦 Installation (Your entry to the VIP lounge)
 ```
 git clone <This repo>
 cd PractisePlayground
 pip install -r requirements.txt
 ```
 
-# ▶️ How to Launch This App
+## ▶️ How to Launch This App
 ```
 python main.py
 ```
@@ -54,7 +54,7 @@ python main.py
 
 - 🧠 UI = Clean, responsive, and will make you wonder if this is really Tkinter 😳
 
-# 🧱 Project Structure (aka: Yes, we planned this)
+## 🧱 Project Structure (aka: Yes, we planned this)
 ```
 CryptVault/
 ├── main.py                   # 💥 Main launcher
@@ -76,22 +76,22 @@ CryptVault/
 
 ```
 
-# 🎨 UI & UX Goals
+## 🎨 UI & UX Goals
 - ☀️ Light theme = No more burning your retina at 2AM
 
 - 🧊 Super responsive, like it’s reading your mind 🧠
 
 - 🧼 Clean and minimalist — because ugly apps are a crime 🚔
 
-👑 Credits
+## 👑 Credits
 Crafted with maximum laziness 💻🧽 by Sai Vignesh aka 𝓜я. ᴠᴇɴɢᴇᴀɴᴄᴇ (Instagram: [itz_mr.voidwalker])
 Because if you're gonna build a password manager...
 why not make it fabulous AND paranoid? 💅🔐💥
 
-📜 License
+## 📜 License
 Free. Open-source. Plagiarize responsibly.
 Just don’t break the vibe 😎🧃
 
-⚠️ Disclaimer:
+## ⚠️ Disclaimer:
 Everything described above is 100% just for fun, because who doesn’t love sounding like they built Fort Knox when really it’s just a Python app with some caffeine ☕ and code sweat?
 So chill, enjoy the sarcasm, and don’t take me too seriously — unless you want to, then I’m flattered. 😎
